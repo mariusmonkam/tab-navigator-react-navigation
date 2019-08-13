@@ -95,7 +95,7 @@ const config = {
   headerMode: 'none',
   initialRouteName: 'Screen1',
   tabBarPosition: 'bottom', // <- add this line here
-  
+  // you can switch tapBarPosition from bottom to top if you want your bar tabbar to appear on the top of the page 
 }
 
 const MainNavigator = createMaterialTopTabNavigator(screens,config);
