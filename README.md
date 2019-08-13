@@ -15,10 +15,10 @@ refere to the doccumentation [React-native cli Quick start or Expo cli Quickstar
 
 5. `npm install --save react-navigation` or `yarn add react-navigation` I myself prefere using yarn.
 If you are not familiar with react-navigation installation please refere to the documentation 
-[react-navigation doc ]("https://reactnavigation.org/docs/en/getting-started.html") 
+[react-navigation doc ](https://reactnavigation.org/docs/en/getting-started.html) 
 6. `npm install --save react-native-gestures-handler` or `yarn add react-native-gesture-handler`
 if you are not familliar to react-native-gesture-handler please refere to the doc 
-[react-native-gesture-handler Getting-started ]("https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html")
+[react-native-gesture-handler Getting-started ](https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html)
 Some time you may be require to link the dependency use `react-native link react-native-gesture-handler` , 
 but in most case for react-native >= v60 is not necessary because is automaticaly linked.
 
