@@ -130,5 +130,5 @@ export default class App extends Component {
 YellowBox.ignoreWarnings(['ViewPagerAndroid']);
 ```
 Now you are ready to take your app to the next level this is how it look
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/MariusMonkam/tab-navigator-react-navigation/blob/master/Screenshot_2019-08-13-07-00-42.png "3 screens react-navigation")
 
